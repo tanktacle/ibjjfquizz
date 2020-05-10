@@ -1,0 +1,173 @@
+[
+  {
+    "question": "If there are three referees (two seated in each corner and one standing) on the same match, and their opinions on any points (advantage or penalty) conflict...:",
+    "choice1": "If the corner referees disagree with the central referee, they must remain seated, and those who agree must stand up.",
+    "choice2": "If the corner referees disagree with the central referee, they must raise both their arms open wide, signaling the number of points with the fingers.",
+    "choice3": "If the corner referees disagree with the central referee, they must stand up, and those who agree must remain seated.",
+    "choice4": "If the corner referees disagree with the central referee, they must raise both their arms in a crossed manner, signaling the number of points with the fingers.",
+    "answer": 3,
+    "ruleset": "1.2.1 Should there be a conflict of opinion with the central referee, the corner referees should stand up and signal for points, advantage points or penalty points to be awarded or subtracted, using gestures predefined in this rule book"
+  },
+  {
+    "question": "The gesture a referee does when there is stalling (lack of combativeness) or serious foul is...:",
+    "choice1": "Arm corresponding to the penalized athlete points to the center of his chest followed by raising a clenched fist to shoulder height.",
+    "choice2": "Arms open and raised at shoulder height.",
+    "choice3": "After pointing to the athlete with arms extended towards his/her waist, hand at shoulder height with open palms making a circlular motion.",
+    "choice4": "Arm corresponding with athlete to be deducted points at shoulder height with palm open.",
+    "answer": 1,
+    "ruleset": "1.4.1 Arm corresponding to the penalized athlete points to the center of his chest followed by raising a clenched fist to shoulder height."
+  },
+  {
+    "question": "When one of the athletes alleges to be suffering from cramps...:",
+    "choice1": "The match is stopped and paused until the athlete suffering from cramps fully recovers.",
+    "choice2": "The match is stopped and the opponent shall be declared winner of the match.",
+    "choice3": "The referee must signal it as stalling.",
+    "choice4": "The match is stopped and it is considered as advantage for the opponent.",
+    "answer": 2,
+    "ruleset": "2.2.1 Stoppage: When one of the athletes alleges to be suffering from cramps, the opponent shall be declared winner of the match."
+  },
+  {
+    "question": "Guard pass, followed by knee on belly finished by mount amounts to...",
+    "choice1": "2 points guard pass, 2 points knee on belly and 4 points for mount.",
+    "choice2": "3 points guard pass, 1 points knee on belly and 3 points for mount.",
+    "choice3": "2 points guard pass, 1 point knee on belly and 3 points for mount.",
+    "choice4": "3 points guard pass, 2 points knee on belly and 4 points for mount.",
+    "answer": 4,
+    "ruleset": "2.5.2 Refer to the table of points per positions"
+  },
+  {
+    "question": "If you are trapped in a submission hold and perform the proper defensive counter for it, resulting in exiting the match area...:",
+    "choice1": "The referee will grant 2 points for the athlete applying the submission hold.",
+    "choice2": "The referee will grant advantage for the athlete applying the submission hold.",
+    "choice3": "The referee will grant advantage for the athlete applying the defensive counter for the submission hold.",
+    "choice4": "The referee will grant 2 points for the athlete applying the defensive counter for the submission hold.",
+    "answer": 1,
+    "ruleset": "Points Scoring: 3.1.1 When the proper defensive counter for a submission hold results in exiting the match area, the referee shall signal 2 (two) points be awarded to the athlete applying the submission hold."
+  },
+  {
+    "question": "Points shall be awarded by the central referee of a match whenever...:",
+    "choice1": "An athlete stabilizes a position for 2 seconds.",
+    "choice2": "An athlete stabilizes a position for 3 seconds.",
+    "choice3": "An athlete stabilizes a position for 1 second.",
+    "choice4": "An athlete stabilizes a position for 4 seconds.",
+    "answer": 2,
+    "ruleset": "Points Scoring: 3.1 Points shall be awarded by the central referee of a match whenever an athlete stabilizes a position for 3 (three) seconds."
+  },
+  {
+    "question": "When both athletes pull guard at the same time...:",
+    "choice1": "The athlete who achieves top position first is awarded an advantage point.",
+    "choice2": "Both athletes must receive advantage points.",
+    "choice3": "None of the athletes will receive advantage points.",
+    "choice4": "The athlete who achieves top position first is awarded a point.",
+    "answer": 1,
+    "ruleset": "Points Scoring: 3.5 When both athletes pull guard at the same time, the athlete who achieves top position first is awarded an advantage point. Obs: In cases that the athlete achieves the top position by going straight to the side-mount, he will not receive points nor an advantage for the guard pass."
+  },
+  {
+    "question": "If while attacking from top position, such as an armbar, the athlete ends up on bottom and does not use his/her legs to prevent the opponent from reaching side-control...:",
+    "choice1": "Three points shall be awarded for the guard pass of the opponent.",
+    "choice2": "An advantage shall be awarded to the athlete.",
+    "choice3": "An advantage shall the awarded to the opponent.",
+    "choice4": "No points or advantages shall be awarded for the guard pass of the opponent",
+    "answer": 4,
+    "ruleset": "Guard Pass: 4.2 If while attacking from top position, such as an armbar, for example, the athlete ends up on bottom and does not use his/her legs to prevent the opponent from reaching side-control, no points or advantages shall be awarded for the guard pass, according to the definition of guard."
+  },
+  {
+    "question": "It is considered a mount when...:",
+    "choice1": "The athlete is on top, clear of the half-guard, sitting on the opponent’s torso and with two knees or one foot and one knee on the ground, facing the opponent’s head and with both arms trapped under his/her leg – and thus remains for 3 seconds. ",
+    "choice2": "The athlete is on top, clear of the half-guard, sitting on the opponent’s torso and with two knees on the ground, facing the opponent’s head and with up to one arm trapped under his/her leg – and thus remains for 3 seconds.",
+    "choice3": "The athlete is on top, clear of the half-guard, sitting on the opponent’s torso and with two knees or one foot and one knee on the ground, facing the opponent’s head and with up to one arm trapped under his/her leg – and thus remains for 3 (three) seconds.",
+    "choice4": "The athlete is on top, clear of the half-guard, sitting on the opponent’s torso and with two knees on the ground, facing the opponent’s head and with both arms trapped under his/her leg – and thus remains for 3 seconds.",
+    "answer": 3,
+    "ruleset": "Mount and Back Mount (4 points): 4.4.1 When the athlete is on top, clear of the half-guard, sitting on the opponent’s torso and with two knees or one foot and one knee on the ground, facing the opponent’s head and with up to one arm trapped under his/her leg – and thus remains for 3 (three) seconds."
+  },
+  {
+    "question": "When the athlete lands on top with a triangle fastened around the opponent on bottom...:",
+    "choice1": "4 points shall be awarded for the mount.",
+    "choice2": "An advantage shall be awarded for the mount.",
+    "choice3": "4 points shall be awarded for the mount if the athlete mantains the position for 3 seconds.",
+    "choice4": "No points shall be awarded for the mount.",
+    "answer": 4,
+    "ruleset": "Mount and Back Mount (4 points): 4.4.1 When the athlete lands on top with a triangle fastened around the opponent on bottom, no points shall be awarded for the mount."
+  },
+  {
+    "question": "Mounted position over both arms results in...:",
+    "choice1": "Advantage.",
+    "choice2": "4 points.",
+    "choice3": "No points or advantage.",
+    "choice4": "Advantage for the opponent.",
+    "answer": 1,
+    "ruleset": "Mount and Back Mount (4 points): 4.4.1 Please refer to the pictures."
+  },
+  {
+    "question": "Which one of this back-control positions would result in advantage instead of full 4 points for back control?",
+    "choice1": "Back control with legs in triangle, back control with one arm trapped or back control with only one hook in.",
+    "choice2": "Back control with legs in triangle, back control with feet crossed or back control for less than 4 seconds.",
+    "choice3": "Back control with legs in triangle, back control with feet crossed or back control with both arms trapped.",
+    "choice4": "Back control with feet crossed, back control with both arms trapped or back control without hooks in.",
+    "answer": 3,
+    "ruleset": "Back Control (4 points): 4.5 When the athlete takes control of the opponent’s back, placing his/her heels between the opponent’s thighs without crossing his/her legs and in a position to trap up to one of the opponent’s arms without trapping the arm above the shoulder line – and thus remains for 3 (three) seconds. Please refer to the images."
+  },
+  {
+    "question": "A sweep will be fully awarded 2 points when...:",
+    "choice1": "When the athlete on bottom with the opponent in his/her guard or half-guard inverts the position and the opponent turns his/her back on all fours and the athlete who initiated the reversal controls the opponent’s back without the requirement of placing hooks and keeping at least one of the opponent’s knees on the ground.",
+    "choice2": "When the athlete on bottom with the opponent in his/her guard or half-guard inverts the position and the opponent turns his/her back on all fours and the athlete who initiated the reversal controls the opponent’s back without the requirement of placing hooks and keeping both of the opponent’s knees on the ground.",
+    "choice3": "When the athlete on bottom with the opponent in his/her guard or half-guard inverts the position and the opponent turns his/her back on all fours and the athlete who initiated the reversal controls the opponent’s back without the requirement of placing hooks and keeping at least one of the opponent’s knees on the ground for 3 (three) seconds.",
+    "choice4": "When the athlete on bottom with the opponent in his/her guard or half-guard inverts the position and the opponent turns his/her back on all fours and the athlete who initiated the reversal controls the opponent’s back without the requirement of placing hooks and keeping both of the opponent’s knees on the ground for 3 (three) seconds.",
+    "answer": 3,
+    "ruleset": "Sweep (2 points): 4.6.1 When the athlete on bottom with the opponent in his/her guard or half-guard inverts the position, forcing the opponent who was on top to be on bottom – and maintains him/her in this position for 3 (three) seconds."
+  },
+  {
+    "question": "An advantage is characterized by near-completion of a point-scoring position, including the non-completion of the 3 seconds. By that rule, which of the following would be considered an advantage?",
+    "choice1": "When an athlete places a knee on his/her opponent’s belly but only places the knee and not foot of his/her other leg on the ground.",
+    "choice2": "When the athlete on top and free of guard or half-guard tries to sit on the opponent’s torso and keeps the two feet on the ground while facing the opponent’s head.",
+    "choice3": "When an athlete mounts his/her opponent’s back and places his/her heels between the opponent’s thighs but traps only one of the opponent's arms.",
+    "choice4": "When an athlete places goes for a knee on his/her opponent’s belly but places both knees on the belly instead of just one.",
+    "answer": 1,
+    "ruleset": "Advantages: 5.2 An advantage is characterized by near-completion of a point-scoring position. The referee should assess whether the opponent was in any real danger and if the athlete clearly came close to reaching the point-scoring pass position."
+  },
+  {
+    "question": "When both athletes pull guard at the same time, the referee will start a 20 second countdown. If at end of this 20 second countdown, even if the athletes are moving, one of the athletes does not reach the top position, does not have a submission in hold,or is not imminently completing a point scoring move...:",
+    "choice1": "The referee will stop the fight and restart from standing position.",
+    "choice2": "The referee will stop the fight and restart from the floor.",
+    "choice3": "The referee will stop the fight and give a penalty to both athletes.",
+    "choice4": "The referee will stop the fight and use his/her judgement to give a penalty to one of the athletes.",
+    "answer": 3,
+    "ruleset": "Technical Penalties: 6.2.1 Lack of Combativeness C) When both athletes pull guard at the same time, the referee will start a 20 second countdown. If at end of this 20 second countdown, even if the athletes are moving, one of the athletes does not reach the top position, does not have a submission in hold,or is not imminently completing a point scoring move, the referee will stop the fight and give a penalty to both athletes. In this situation, the referee will restart the combat in standing position."
+  },
+  {
+    "question": "When an athlete intentionally removes his/her own Gi or belt...:",
+    "choice1": "The match will be stopped and that athlete will be immediately disqualified.",
+    "choice2": "The match will be stopped and the athlete will have to apropiately tie his/her belt or Gi.",
+    "choice3": "The match will be stopped and the referee will give a warning.",
+    "choice4": "The match will be stopped and it will be considered a serious foul.",
+    "answer": 4,
+    "ruleset": "Technical Penalties: 6.2.2 Serious Fouls G) When an athlete intentionally removes his/her own Gi or belt, causing the match to be stopped."
+  },
+  {
+    "question": "Which one of these is NOT considered a serious foul?",
+    "choice1": "When the athlete kneels or sits (remaining in the position) or pulls guard, without the establishment of a grip.",
+    "choice2": "When an athlete breaks the grip of the opponent pulling guard and does not return to combat on the ground.",
+    "choice3": "When an athlete takes more than 20 seconds to re-adjust their(his/her) uniform.",
+    "choice4": "When the athlete who is defending a single leg takedown, while the athlete attacking has his head outside his opponents body, intentionally projects his attacker to the ground, by grabbing his opponents belt, to make him hit the floor with the head.",
+    "answer": 4,
+    "ruleset": "Technical Penalties: 6.2.3 K) When the athlete who is defending a single leg takedown, while the athlete attacking has his head outside his opponents body, intentionally projects his attacker to the ground, by grabbing his opponents belt, to make him hit the floor with the head."
+  },
+  {
+    "question": "Which one of these illegal moves is the only one allowed, but for brown and black belts only?",
+    "choice1": "Spinal lock without choke",
+    "choice2": "Knee bar",
+    "choice3": "Knee reaping",
+    "choice4": "Slam",
+    "answer": 2,
+    "ruleset": "Technical Penalties: 6.2.3 Please refer to the images."
+  },
+  {
+    "question": "Sequence: Both athletes are standing without grips. One of them grabs the pants on knee level and his opponent jumps to closed guard. Nothing happens for 10 seconds, and the athlete on top brings his opponent to the floor, stabilizing the position for 3 seconds. What happens next?",
+    "choice1": "The athlete on top gets 2 points.",
+    "choice2": "The athlete on top gets an advantage.",
+    "choice3": "The athlete on bottom gets an advantage and the one on top 2 points.",
+    "choice4": "No points are given.",
+    "answer": 3,
+    "ruleset": "Takedown (2 points): When an athlete has a grip on the opponent’s pants and the opponent pulls guard, the athlete with the grip on the pants shall be awarded two points for the takedown if he/she stabilizes the top position on the ground for 3 (three) seconds. Note: If the opponent pulls closed guard and remains suspended in the air, the athlete will have to put the opponent’s back on the ground within 3 (three) seconds and stabilize the top position for 3 (three) seconds to be awarded with Takedown points."
+  }
+]
